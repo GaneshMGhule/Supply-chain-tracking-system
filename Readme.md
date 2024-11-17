@@ -46,7 +46,6 @@ The smart contract is deployed on the Aptos blockchain at the following address:
 0x<0x7ba70556c0cf95dd336b78a8d6c83ecb6f4757a4c581fb50829f06e9320fa100>
 ```
 
-> Replace `<0x7ba70556c0cf95dd336b78a8d6c83ecb6f4757a4c581fb50829f06e9320fa100>` with the actual deployed address.
 
 ## Usage
 
