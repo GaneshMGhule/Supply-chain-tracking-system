@@ -1,0 +1,15 @@
+[package]
+name = "Supply_chain_tracking_system "
+version = "1.0.0"
+authors = []
+
+[addresses]
+ TokenRewardSystem = '0x7ba70556c0cf95dd336b78a8d6c83ecb6f4757a4c581fb50829f06e9320fa100'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
